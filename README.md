@@ -8,6 +8,3 @@
 # Stop: It stops or pauses the timer.
 # Reset: It resets the timer back to 0.
 
-
-# #Demo
-# You can view this project on https://hananwanii.github.io/
