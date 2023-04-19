@@ -50,3 +50,4 @@ function timer(){
     let milliseconds = milsec < 10 ? "00" + milsec : milsec < 100 ? "0" + milsec : milsec;
     timerRef.innerHTML = ` ${hour} : ${minutes} : ${seconds} : ${milliseconds}`;
    }
+  

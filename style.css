@@ -7,7 +7,7 @@
 }
 
 body{
-  background-image: url("./images/back.jpg");
+  background-image: url("./images/stopwatch.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -30,7 +30,7 @@ body{
     background: lightseagreen;
     left: 4%;
     top: 12%;
-    padding: 40px 0;
+    padding: 40px 0px;
     font-family: monospace;
     color: black;
     font-size: 40px;
